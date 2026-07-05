@@ -1,5 +1,5 @@
-/proximamente/presupuestos  →  /presupuestos
-/proximamente/envios        →  /envios
-/proximamente/produccion    →  /produccion
-/proximamente/archivos      →  /archivos
-/proximamente/reportes      →  /reportes
+{ id: 'presupuestos', label: 'Presupuestos', href: '/presupuestos', icon: 'doc' },
+{ id: 'envios',       label: 'Envíos',       href: '/envios',       icon: 'truck' },
+{ id: 'produccion',   label: 'Cola de producción', href: '/produccion', icon: 'calendar' },
+{ id: 'archivos',     label: 'Archivos y diseños', href: '/archivos',   icon: 'folder' },
+{ id: 'reportes',     label: 'Reportes',     href: '/reportes',     icon: 'report' },
